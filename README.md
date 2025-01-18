@@ -82,4 +82,6 @@ Further Improvements:
  * Hyperparameter tuning: Experiment with different hyperparameters for the Random Forest Classifier (e.g., number of trees, maximum depth) to potentially improve performance.
  * Feature importance analysis: Investigate which features are most important for predicting survival.
  * Ensemble methods: Explore other ensemble methods like Gradient Boosting or XGBoost to potentially achieve better results.
- * Advanced preprocessing techniques: Investigate more advanced preprocessing techniques such as standardization, normalization, or feature scaling
+ * Advanced preprocessing techniques: Investigate more advanced preprocessing techniques such as standardization, normalization, or feature scaling.
+
+**OUTPUT**: ![Image](https://github.com/user-attachments/assets/90ba5801-ff2b-4896-9298-aed35ef79c88)
